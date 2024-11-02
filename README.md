@@ -97,9 +97,19 @@
 
 ### :desktop_computer: 화면 구성
 
-|로그인|마이페이지|
+|홈|메인페이지|
 |:---:|:---:|
-|<img src="readme skill icons/로그인.png?raw=true" width="350">|<img src="readme skill icons/로그인.png?raw=true" width="350">|
+|<img src="readme skill icons/1.png?raw=true" width="300"><img src="readme skill icons/3.png?raw=true" width="300">|<img src="readme skill icons/2.png?raw=true" width="300"><img src="readme skill icons/4.png?raw=true" width="300">|
+|화면에 대한 설명을 입력합니다.|화면에 대한 설명을 입력합니다.|
+
+|로그인, 회원가입|마이페이지, 회원탈퇴|
+|:---:|:---:|
+|<img src="readme skill icons/5.png?raw=true" width="300"><img src="readme skill icons/6.png?raw=true" width="300">|<img src="readme skill icons/7.png?raw=true" width="300"><img src="readme skill icons/8.png?raw=true" width="300">|
+|화면에 대한 설명을 입력합니다.|화면에 대한 설명을 입력합니다.|
+
+|근처 행사|행사 상세 페이|
+|:---:|:---:|
+|<img src="readme skill icons/1.png?raw=true" width="300"><img src="readme skill icons/3.png?raw=true" width="300">|<img src="readme skill icons/2.png?raw=true" width="300"><img src="readme skill icons/4.png?raw=true" width="300">|
 |화면에 대한 설명을 입력합니다.|화면에 대한 설명을 입력합니다.|
 
 
