@@ -107,10 +107,35 @@
 |<img src="readme skill icons/5.png?raw=true" width="300"><img src="readme skill icons/6.png?raw=true" width="300">|<img src="readme skill icons/7.png?raw=true" width="300"><img src="readme skill icons/8.png?raw=true" width="300">|
 |화면에 대한 설명을 입력합니다.|화면에 대한 설명을 입력합니다.|
 
-|근처 행사|행사 상세 페이|
+|근처 행사|
+|:---:|
+|<img src="readme skill icons/26.png?raw=true" width="400">|
+|화면에 대한 설명을 입력합니다.|
+
+|행사 상세 페이지, 후기 작성|
+|:---:|
+|<img src="readme skill icons/9.png?raw=true" width="300"><img src="readme skill icons/11.png?raw=true" width="300"><img src="readme skill icons/10.png?raw=true" width="300">|
+|화면에 대한 설명을 입력합니다.|
+
+|행사 검색|관심 행사|
 |:---:|:---:|
-|<img src="readme skill icons/1.png?raw=true" width="300"><img src="readme skill icons/3.png?raw=true" width="300">|<img src="readme skill icons/2.png?raw=true" width="300"><img src="readme skill icons/4.png?raw=true" width="300">|
+|<img src="readme skill icons/12.png?raw=true" width="400"><img src="readme skill icons/13.png?raw=true" width="400">|<img src="readme skill icons/14.png?raw=true" width="400"><img src="readme skill icons/15.png?raw=true" width="400">|
 |화면에 대한 설명을 입력합니다.|화면에 대한 설명을 입력합니다.|
+
+|행사 일정|
+|:---:|
+|<img src="readme skill icons/16.png?raw=true" width="400">|
+|화면에 대한 설명을 입력합니다.|
+
+|게시판|
+|:---:|
+|<img src="readme skill icons/17.png?raw=true" width="400"><img src="readme skill icons/18.png?raw=true" width="400"><img src="readme skill icons/19.png?raw=true" width="400"><img src="readme skill icons/22.png?raw=true" width="400"><img src="readme skill icons/23.png?raw=true" width="400"><img src="readme skill icons/24.png?raw=true" width="400"><img src="readme skill icons/25.png?raw=true" width="400">|
+|화면에 대한 설명을 입력합니다.|
+
+|회원별 맟춤 행사 추천|
+|:---:|
+|<img src="readme skill icons/20.png?raw=true" width="400"><img src="readme skill icons/21.png?raw=true" width="400">|
+|화면에 대한 설명을 입력합니다.|
 
 
 
