@@ -100,42 +100,42 @@
 |홈|메인페이지|
 |:---:|:---:|
 |<img src="readme skill icons/1.png?raw=true" width="300"><img src="readme skill icons/3.png?raw=true" width="300">|<img src="readme skill icons/2.png?raw=true" width="300"><img src="readme skill icons/4.png?raw=true" width="300">|
-|화면에 대한 설명을 입력합니다.|화면에 대한 설명을 입력합니다.|
+|POP-UP, FESTIVAL 페이지 선택 이동|인기 행사 슬라이드, 오픈예정 행사 슬라이드|
 
 |로그인, 회원가입|마이페이지, 회원탈퇴|
 |:---:|:---:|
 |<img src="readme skill icons/5.png?raw=true" width="300"><img src="readme skill icons/6.png?raw=true" width="300">|<img src="readme skill icons/7.png?raw=true" width="300"><img src="readme skill icons/8.png?raw=true" width="300">|
-|화면에 대한 설명을 입력합니다.|화면에 대한 설명을 입력합니다.|
+|SNS 로그인, 회원가입, 최초가입시 추가정보 입력|마이페이지 내정보 수정, 회원탈퇴|
 
 |근처 행사|
 |:---:|
 |<img src="readme skill icons/26.png?raw=true" width="400">|
-|화면에 대한 설명을 입력합니다.|
+|현재 접속 위치 기반 근처 행사 리스트 제공, 선택 지역 행사 리스트 제공|
 
 |행사 상세 페이지, 후기 작성|
 |:---:|
 |<img src="readme skill icons/9.png?raw=true" width="300"><img src="readme skill icons/11.png?raw=true" width="300"><img src="readme skill icons/10.png?raw=true" width="300">|
-|화면에 대한 설명을 입력합니다.|
+|행사 기본정보, 위치, 후기 및 평점 작성|
 
 |행사 검색|관심 행사|
 |:---:|:---:|
 |<img src="readme skill icons/12.png?raw=true" width="400"><img src="readme skill icons/13.png?raw=true" width="400">|<img src="readme skill icons/14.png?raw=true" width="400"><img src="readme skill icons/15.png?raw=true" width="400">|
-|화면에 대한 설명을 입력합니다.|화면에 대한 설명을 입력합니다.|
+|진행중, 오픈예정, 종료 행사 검색|관심 행사 등록시 마이페이지 관심 행사 페이지에서 확인 가능|
 
 |행사 일정|
 |:---:|
 |<img src="readme skill icons/16.png?raw=true" width="400">|
-|화면에 대한 설명을 입력합니다.|
+|월별 행사 일정 확인 가능|
 
 |게시판|
 |:---:|
 |<img src="readme skill icons/17.png?raw=true" width="400"><img src="readme skill icons/18.png?raw=true" width="400"><img src="readme skill icons/19.png?raw=true" width="400"><img src="readme skill icons/22.png?raw=true" width="400"><img src="readme skill icons/23.png?raw=true" width="400"><img src="readme skill icons/24.png?raw=true" width="400"><img src="readme skill icons/25.png?raw=true" width="400">|
-|화면에 대한 설명을 입력합니다.|
+|공지사항, 비즈니스 문의, 제보하기, 동행구하기, 자유게시판|
 
 |회원별 맟춤 행사 추천|
 |:---:|
 |<img src="readme skill icons/20.png?raw=true" width="400"><img src="readme skill icons/21.png?raw=true" width="400">|
-|화면에 대한 설명을 입력합니다.|
+|회원가입시 입력했던 관심 태그 기반 행사 추천|
 
 
 
